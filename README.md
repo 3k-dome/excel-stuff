@@ -1,0 +1,3 @@
+# excel-stuff
+
+currently learning c# on the side and doing a lot of stuff with excel ... 
